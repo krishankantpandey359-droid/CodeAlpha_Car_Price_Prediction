@@ -30,4 +30,4 @@ The dataset contains information about used cars such as brand, model, model yea
 
 ## Result
 
-Random Forest Regression performed better than Linear Regression on the test data based on the model evaluation results.# CodeAlpha_Car_Price_Prediction
+Random Forest Regression performed better than Linear Regression on the test data based on the model evaluation results.# Car_Price_Prediction
